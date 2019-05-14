@@ -1,10 +1,5 @@
 # SSPredict: Solid-Solution Strengthening Prediction
-Table of Contents
-=================
-      * [Getting Started](#getting-started)
-            * [Packages:](#packages)
-      * [Using the tool with Install](#using-the-tool-with-install)
-      * [Using the tool WITHOUT INSTALLATION](#using-the-tool-without-installation)
+
 
 
 
