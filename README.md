@@ -1,5 +1,19 @@
 # SSPredict: Solid-Solution Strengthening Prediction
 
+Table of Contents
+=================
+      * [1.  Introduction](#1--introduction)
+      * [2.  Required Packages](#2--required-packages)
+      * [3.  Usage](#3--usage)
+         * [Using the tool with installation](#using-the-tool-with-installation)
+         * [Using the tool WITHOUT INSTALLATION](#using-the-tool-without-installation)
+            * [Clone the tool to where you want to start the project:](#clone-the-tool-to-where-you-want-to-start-the-project)
+            * [Setup input file](#setup-input-file)
+
+
+
+
+
 A command line tool to visualize the solid solution strengthening stresses of complex concentrated alloys (CCAs).  
   
 Complex concentrated alloy (CCA) is an emerging class of multi-component alloy with promising properties and unexploit possibilities. Accelerating the discovery of high strength CCAs based on solid solution strengthening is challenging because of their complicated compositions. This tool is designed to visualize the solid solution strengthening stress regarding the combinations of components and the vast composition space of CCAs. Users are allowed to change alloying combinations and concentrations to explore the strengthening effects. The formulations are based on an elasticity-based model for random solid solution alloys [ref.1].
