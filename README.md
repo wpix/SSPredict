@@ -1,16 +1,10 @@
 # SSPredict: Solid-Solution Strengthening Prediction
-
 Table of Contents
 =================
-      * [1.  Introduction](#1--introduction)
-      * [2.  Required Packages](#2--required-packages)
-      * [3.  Usage](#3--usage)
-         * [Using the tool with installation](#using-the-tool-with-installation)
-         * [Using the tool WITHOUT INSTALLATION](#using-the-tool-without-installation)
-            * [Clone the tool to where you want to start the project:](#clone-the-tool-to-where-you-want-to-start-the-project)
-            * [Setup input file](#setup-input-file)
-
-
+      * [Getting Started](#getting-started)
+            * [Packages:](#packages)
+      * [Using the tool with Install](#using-the-tool-with-install)
+      * [Using the tool WITHOUT INSTALLATION](#using-the-tool-without-installation)
 
 
 
